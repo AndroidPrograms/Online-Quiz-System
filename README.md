@@ -1,2 +1,2 @@
-# Online-Quiz-System
+# Online-Exam-System
 C Programming
